@@ -6,3 +6,5 @@ async function bootstrap() {
   await app.listen(4000);
 }
 bootstrap();
+
+// VIDEO: https://youtu.be/GHTA143_b-s?t=1592
