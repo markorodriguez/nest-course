@@ -7,4 +7,4 @@ async function bootstrap() {
 }
 bootstrap();
 
-// VIDEO: https://youtu.be/GHTA143_b-s?t=1592
+// VIDEO: https://youtu.be/GHTA143_b-s?t=1592 (26:32)
