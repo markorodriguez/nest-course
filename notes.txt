@@ -5,3 +5,6 @@ Services: are responsible for handling business logic.
 Injectable: is a decorator that marks a class as available to be injected and then inject it into other classes that require it.
 
 Dependency Injection: An injection is the passing of a dependency (an instance) to a dependent object (a client) that would use it.
+
+Prisma just needs one place to declare the Models
+
