@@ -8,3 +8,6 @@ Dependency Injection: An injection is the passing of a dependency (an instance) 
 
 Prisma just needs one place to declare the Models
 
+DTO is an object where you push your data from the client request 
+
+Pipes are functions that transforms the data
